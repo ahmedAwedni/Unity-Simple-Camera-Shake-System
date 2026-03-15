@@ -27,6 +27,7 @@ Furthermore, the script calculates displacement using "Random.insideUnitSphere" 
    * Apply your movement/look scripts to the parent, **not** the Main Camera.
 2. **Attach Script:** Drag and drop the "CameraShaker.cs" script onto your **Main Camera**.
 3. **Trigger the Shake:** Open any other script in your game (for example, a bomb exploding) and call this single line of code:
+
    // Shakes the camera for 0.5 seconds with a strength of 0.2:
 
    
