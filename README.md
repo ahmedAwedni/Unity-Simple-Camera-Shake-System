@@ -48,6 +48,3 @@ Furthermore, the script calculates displacement using "Random.insideUnitSphere" 
 * Minimum Version: Unity 2020.3
 * Recommended: Unity6 LTS or newer.
 * Render Pipelines: Compatible with Built-In, URP, and HDRP.
-
-📜 License
-MIT
